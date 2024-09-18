@@ -3,5 +3,5 @@
 Aqui estan mis redes sociales:
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://www.youtube.com/@IlloJuan_)
 Aqui estan mis redes sociales:
-[![Instagram]()](https://www.youtube.com/@IlloJuan_)
+[![Instagram](ig.png)](https://www.youtube.com/@IlloJuan_)
 
