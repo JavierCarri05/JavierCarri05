@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hola 2ºDAM, soy Javier 👋
+
+
+https://github.com/JavierCarri05/JavierCarri05/blob/main/imagen1.jpeg
+
+
 
 <!--
 **JavierCarri05/JavierCarri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
