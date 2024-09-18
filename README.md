@@ -1,7 +1,9 @@
-Hola 2ºDAM, soy Javier (me pillo la vaca loca) ![En la fukin feria](foto2.jpeg) 
+Hola 2ºDAM, soy Javier (me pillo la vaca loca) <br>
+<img src="foto2.jpeg" width="200" alt="">
 
-Aqui estan mis redes sociales:
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://www.youtube.com/@IlloJuan_)
-Aqui estan mis redes sociales:
-[![Instagram](ig.png)](https://www.youtube.com/@IlloJuan_)
+Aqui estan mis redes sociales:<p>
+<a title="" href="<https://www.instagram.com/>"><img src="ig.png" width="100" alt="" /></a>
+<a title="" href="<https://www.youtube.com/?hl=es&gl=ES>"><img src="ig.png" width="100" alt="" /></a>
+<a title="" href="<https://www.instagram.com/>"><img src="ig.png" width="100" alt="" /></a>
+
 
