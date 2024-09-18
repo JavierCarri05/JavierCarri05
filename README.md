@@ -1,4 +1,4 @@
-Hola 2ºDAM, soy Javier (me pillo la vaca loca) <br>
+Hola 2ºDAM, soy Javier <br>
 <img src="fotoCurriculum.png" width="200" alt="">
 
 Aqui estan mis redes sociales:<p>
