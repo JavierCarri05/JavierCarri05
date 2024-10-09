@@ -3,7 +3,6 @@ Hola 2ºDAM, soy Javier <br>
 
 Aqui estan mis redes sociales:<p>
 [![Instagram](https://img.shields.io/badge/Instagram-@javier_carrizo_05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/javier_carrizo_05)
-[![YouTube](https://img.shields.io/badge/YouTube-javier7310-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@javier7310 )
 
 Soy estudiante de 2ºDAM y llevo programando desde 2023
   - Programo en Java, HTML, CSS y JavaScrip
